@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 12 10:58:27 2020
-
-@author: 
-"""
-
 import time
 import numpy as np
 import scipy as sp

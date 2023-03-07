@@ -24,7 +24,7 @@ from kneed import KneeLocator
 
 """
 Relevant parts of the code have been adapted from :
-https://github.com/debarghya-mukherjee/Robust-Optimal-Transport/blob/main/ROBOT_mnist_outlier_detection.py
+https://github.com/lchapel/partial-GW-for-PU
 """
 
 def moving_average(a, n=10) :
