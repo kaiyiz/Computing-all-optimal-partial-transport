@@ -8,11 +8,11 @@ The repository is divided into two parts:
     <li>Implementation of optimal partial transport in PU-learning</li>
 </ol>
 
-For the outlier detection part, we compare our results with Mukherjee et al. (2021) [https://arxiv.org/abs/2012.07363], whose code was obtained from their Github repository https://github.com/debarghya-mukherjee/Robust-Optimal-Transport, and some of their code was adopted for our comparison.
+For the outlier detection part, we compare our results with [Mukherjee et al. (2021)](https://arxiv.org/abs/2012.07363), whose code was obtained from their Github repository https://github.com/debarghya-mukherjee/Robust-Optimal-Transport, and some of their code was adopted for our comparison.
 
 The scripts named "outlier_detect_minist.py" and "outlier_detect_sythetic.py" generate the performance comparison in table 1 of our paper, conducting outlier detection with MNIST and synthetic data, respectively.
 
-For PU-learning, we compare our results with Chapel et al. (2020) [https://arxiv.org/abs/2002.08276], and some of their code was obtained from their Github repository https://github.com/lchapel/partial-GW-for-PU and adopted for our comparison.
+For PU-learning, we compare our results with [Chapel et al. (2020)](https://arxiv.org/abs/2002.08276), and some of their code was obtained from their Github repository https://github.com/lchapel/partial-GW-for-PU and adopted for our comparison.
 
 The notebook named "table2.ipynb" conducts the experiments of PU-learning and generates the performance results in table 2 of the paper.
 
