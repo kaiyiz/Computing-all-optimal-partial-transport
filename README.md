@@ -1,6 +1,6 @@
 # Computing All Optimal Partial Transport
 
-This repository contains the experiment code for the paper "Computing All Optimal Partial Transports", which is available [here](https://openreview.net/forum?id=gwcQajoXNF).
+This repository contains the experiment code for the paper "Computing All Optimal Partial Transports", which is available on [OpenReview](https://openreview.net/forum?id=gwcQajoXNF).
 
 The repository is divided into two parts:
 <ol>
@@ -16,7 +16,7 @@ For PU-learning, we compare our results with [Chapel et al. (2020)](https://arxi
 
 The notebook named "table2.ipynb" conducts the experiments of PU-learning and generates the performance results in table 2 of the paper.
 
-### Dependencies
+## Dependencies
 
 This code is written in Python 3 and relies on the following libraries:
 ```
@@ -26,4 +26,19 @@ pot
 tensorflow
 jpype
 kneed
+```
+
+## Citation
+
+If you find this work helpful for your research, please consider citing our paper:
+```
+@conference{APhatak2023,
+title = {Computing all Optimal Partial Transports},
+author = {Abhijeet Phatak, Sharath Raghvendra, Chittaranjan Tripathy and Kaiyi Zhang},
+year = {2023},
+date = {2023-05-01},
+urldate = {2023-05-01},
+publisher = {Eleventh International Conference on Learning Representations (ICLR), 2023},
+tppubtype = {conference}
+}
 ```
