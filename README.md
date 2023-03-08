@@ -32,13 +32,11 @@ kneed
 
 If you find this work helpful for your research, please consider citing our paper:
 ```
-@conference{APhatak2023,
+@inproceedings{APhatak2023,
 title = {Computing all Optimal Partial Transports},
-author = {Abhijeet Phatak, Sharath Raghvendra, Chittaranjan Tripathy and Kaiyi Zhang},
+author = {Abhijeet Phatak and Sharath Raghvendra and Chittaranjan Tripathy and Kaiyi Zhang},
 year = {2023},
-date = {2023-05-01},
-urldate = {2023-05-01},
-publisher = {Eleventh International Conference on Learning Representations (ICLR), 2023},
-tppubtype = {conference}
+booktitle={International Conference on Learning Representations (ICLR)},
+url={https://openreview.net/forum?id=gwcQajoXNF}
 }
 ```
