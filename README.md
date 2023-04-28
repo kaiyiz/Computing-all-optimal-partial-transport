@@ -10,7 +10,7 @@ In our experiments, we compared our algorithm to several other methods for outli
 
 ### Outlier Detection
 For outlier detection, we compare our results with [Mukherjee et al. (2021)](https://arxiv.org/abs/2012.07363), whose code was obtained from their Github repository https://github.com/debarghya-mukherjee/Robust-Optimal-Transport, and some of their code was adopted for our comparison. The scripts named "outlier_detect_minist.py" and "outlier_detect_sythetic.py" generate the performance comparison in table 1 of our paper, conducting outlier detection with MNIST and synthetic data, respectively.
-<p align="center" width="100%">
+<p align="center" width="200%">
     <img src="images/outlier_detection.png"> 
 </p>
 
